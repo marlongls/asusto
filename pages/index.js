@@ -4,7 +4,7 @@ import { useState } from 'react';
 const D = {
   brand: 'ASUSTOTO',
   domain: 'asustotowaplogin.com',
-  logo: 'https://i.postimg.cc/VN5bynBK/asus-pp.png',
+  logo: 'https://ik.imagekit.io/kq8uttasd/asus_pp.png',
   linkLogin: 'https://loginwap.gelapsekali.com/asus',
   linkDaftar: 'https://daftarwap.gelapsekali.com/asus',
   amphtml: 'asustotowaplogin.com',
